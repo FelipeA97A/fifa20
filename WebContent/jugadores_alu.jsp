@@ -88,13 +88,16 @@
 									</header>
 									
 									<div class="table-wrapper">
+
+													<!-- Dani estuvo aqui -->
+
 								<table class="alt">
 									<thead>
 										<tr>
-											<th>Nombre</th>
+											<th>Name</th>
 											<th width='325' colspan="3"></th>
-											<th style="text-align: center;">RAT</th>
-											<th style="text-align: center;">POS</th>
+											<th style="text-align: left;">RAT</th>
+											<th style="text-align: right;">POS</th>
 											<th style="text-align: center;">CARTA</th>
 											<th style="text-align: center;">PRECIO</th>
 											<th style="text-align: center;">SKI</th>
