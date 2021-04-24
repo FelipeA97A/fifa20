@@ -3,6 +3,7 @@ package fifa20;
 import java.util.ArrayList;
 
 public class Liga {
+
 	private int cod_liga;
 	private String nombre;
 	private String pais;
